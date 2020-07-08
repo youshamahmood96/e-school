@@ -10,18 +10,12 @@ header{
     width: 198.07px;
     height: 59px;
 }
-
+.btn{
+    margin-bottom:20px;
+    border-radius:20px;
+    background:#21B573;
+    color:white;
     
-.all-button{
-    color: #fff;
-    border:none;
-    cursor:pointer;
-    flex-direction: row;
-    position: absolute;
-    width: 104px;
-    height: 43px;
-    background: #21B573;
-    border-radius: 33px;
 }
 header li{
     padding:10px;
@@ -59,6 +53,10 @@ header span{
     height: 75px;
     margin: 40px 82px;
 }
+.courses{
+    margin-top: 80px;
+    margin-bottom:80px;
+}
 .courses-img{
     width: 311px;
     height: 214px;
@@ -76,23 +74,14 @@ header span{
 .card{
     border-radius: 10px;
     box-shadow: 10px 10px 5px lightgrey;
+    border:none;
 }
 
-.courses{
-    margin-top: 80px;
-    margin-bottom:80px;
-}
+
 
 
 .card-body{
     padding-left: 30px;
-}
-.btn{
-    margin-bottom:20px;
-    border-radius:20px;
-    background:#21B573;
-    color:white;
-    
 }
 .card-icon{
     width: 24px;
@@ -110,6 +99,7 @@ header span{
     margin-top:40px;
     padding-left:180px;
     padding-right:180px;
+    margin-bottom:80px;
 }
 
 .testimonial-body img{
@@ -130,6 +120,10 @@ footer h3{
 footer h3, footer p{
     margin-top:30px;
     margin-left:60px;
+}
+footer h5{
+    font-size:16px;
+    margin-top:40px;
 }
 footer h6{
     font-size:20px;
