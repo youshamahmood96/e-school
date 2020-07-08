@@ -1,0 +1,107 @@
+body{
+    font-size:16px;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color:#F0FFF0;
+    margin-bottom:80px;
+}
+#e-school-logo{
+    width: 198.07px;
+    height: 59px;
+}
+
+    
+.all-button{
+    color: #fff;
+    border:none;
+    cursor:pointer;
+    flex-direction: row;
+    position: absolute;
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+}
+header li{
+    padding:10px;
+}
+header h1{
+    font-size:36px;
+    font-weight:bold;
+}
+header span{
+    color:#21B573;
+}
+.box{
+    margin-top: 30px;
+    height: 230px;
+    width: 230px;
+    border: none;
+    background-color: #f8fffb;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px lightgrey;
+}
+
+.box:hover{
+    margin-top: 30px;
+    height: 230px;
+    width: 230px;
+    border: none;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+
+
+.stat-img{
+    width: 66px;
+    height: 75px;
+    margin: 40px 82px;
+}
+.courses-img{
+    width: 311px;
+    height: 214px;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+
+
+.card-footer{
+    margin-top: none;
+    background-color: white;
+    border-top: none;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+
+.courses{
+    margin-top: 80px;
+    margin-bottom:80px;
+}
+
+
+.card-body{
+    padding-left: 30px;
+}
+.btn{
+    margin-bottom:20px;
+    border-radius:20px;
+    background:#21B573;
+    color:white;
+    
+}
+
+.card-icon{
+    width: 24px;
+    height: 24px;
+    display:inline;
+    float:left;
+}
+
+
+
+
