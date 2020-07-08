@@ -94,13 +94,49 @@ header span{
     color:white;
     
 }
-
 .card-icon{
     width: 24px;
     height: 24px;
     display:inline;
     float:left;
 }
+.testimonial-header{
+    padding-top:80px;
+}
+.testimonial-header h2{
+    font-weight:bolder;
+}
+.testimonial-body{
+    margin-top:40px;
+    padding-left:180px;
+    padding-right:180px;
+}
+
+.testimonial-body img{
+    width: 120px;
+    height: 120px;
+    margin-right:40px;
+    
+}
+footer{
+    background:#282531;
+    color:white;
+    margin-top:80px;
+    padding-top:40px;
+}
+footer h3{
+    font-weight:bold;
+}
+footer h3, footer p{
+    margin-top:30px;
+    margin-left:60px;
+}
+footer h6{
+    font-size:20px;
+    margin-top:30px;
+}
+
+
 
 
 
